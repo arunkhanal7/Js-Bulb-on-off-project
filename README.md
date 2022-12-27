@@ -1,2 +1,2 @@
 # Js-Bulb-on-off-project
-Simple project pf bulb on and off
+Simple project  bulb on and off using javascript
